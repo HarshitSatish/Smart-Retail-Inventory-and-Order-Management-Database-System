@@ -2,6 +2,7 @@ Create database supermarket;
 
 use supermarket;
 
+
 create table store_details(
 	store_id int primary key auto_increment,
     store_name varchar(64) not null,
@@ -128,9 +129,11 @@ create table product_price(
     check (Discounted_price is null  or Discounted_price <= Current_retail_price)
 );
 
+
 create table customer(
 	customer_id int auto_increment primary key,
-    name varchar(64) not null,
+    first_name varchar(64) not null,
+    last_name varchar(64) not null,
     email varchar(64) unique not null,
     password varchar(64) not null,
     Date_of_birth date not null
@@ -150,9 +153,11 @@ create table customer_address(
         on delete cascade
 );
 
+
 create table card_details(
 	card_id int auto_increment primary key,
-    card_name varchar(64) not null,
+    first_name varchar(64) not null,
+    last_name varchar(64) not null,
     last_4_digits varchar(4) unique not null,
     exp_date date not null,
     customer_id int not null,
@@ -165,7 +170,7 @@ create table card_details(
 create table customer_order(
 	order_id int auto_increment primary key,
     order_type enum("Pickup","Delivery") not null,
-    order_time datetime not null,
+    order_time time not null,
     order_date date not null,
     order_status enum("Confirmed","Cancelled","Failed") not null,
     customer_id int not null,
