@@ -1,0 +1,221 @@
+assignment_id,assignment_status,manager_id,packer_id,order_id
+1,confirmed,29,31,1
+2,Ready for delivery,9,11,2
+3,confirmed,33,36,3
+4,delivered,13,15,4
+5,confirmed,21,23,5
+6,confirmed,17,20,6
+7,confirmed,5,6,7
+8,packing,29,32,8
+9,Ready for pickup,29,32,9
+10,packing,17,18,10
+11,confirmed,25,27,11
+12,confirmed,17,19,12
+13,Ready for pickup,5,6,13
+14,packing,17,19,14
+15,Ready for pickup,13,15,15
+16,Ready for pickup,1,3,16
+17,Ready for pickup,33,34,17
+18,packing,17,19,18
+19,out for delivery,21,24,19
+20,confirmed,25,28,20
+21,delivered,21,24,21
+22,out for delivery,13,16,22
+23,Ready for delivery,13,16,23
+24,delivered,17,19,24
+25,packing,13,16,25
+26,delivered,37,39,26
+27,packing,13,16,27
+28,confirmed,5,7,28
+29,packing,5,6,29
+30,packing,21,22,30
+31,confirmed,25,27,31
+32,out for delivery,5,6,32
+33,confirmed,37,39,33
+34,Ready for pickup,29,32,34
+35,confirmed,5,8,35
+36,packing,29,30,36
+37,Ready for pickup,37,40,37
+38,packing,17,20,38
+39,packing,21,22,39
+40,packing,17,20,40
+41,delivered,33,36,41
+42,Ready for pickup,21,24,42
+43,confirmed,9,12,43
+44,Ready for delivery,37,38,44
+45,confirmed,17,19,45
+46,confirmed,33,34,46
+47,delivered,25,27,47
+48,Ready for delivery,17,19,48
+49,confirmed,17,19,49
+50,delivered,17,19,50
+51,out for delivery,1,4,51
+52,packing,29,32,52
+53,confirmed,17,19,53
+54,packing,25,28,54
+55,out for delivery,29,30,55
+56,Ready for delivery,9,12,56
+57,Ready for delivery,21,23,57
+58,confirmed,33,36,58
+59,confirmed,5,7,59
+60,Ready for pickup,21,22,60
+61,Ready for delivery,25,28,61
+62,Ready for pickup,9,11,62
+63,packing,1,3,63
+64,Ready for delivery,29,31,64
+65,packing,9,12,65
+66,packing,1,2,66
+67,Ready for pickup,29,31,67
+68,delivered,5,8,68
+69,Ready for pickup,17,18,69
+70,packing,9,11,70
+71,confirmed,29,32,71
+72,delivered,33,34,72
+73,Ready for delivery,9,12,73
+74,confirmed,37,40,74
+75,packing,21,24,75
+76,confirmed,37,40,76
+77,confirmed,5,6,77
+78,Ready for pickup,1,2,78
+79,packing,5,8,79
+80,packing,33,35,80
+81,Ready for pickup,5,7,81
+82,confirmed,17,20,82
+83,confirmed,25,27,83
+84,Ready for delivery,5,8,84
+85,Ready for delivery,37,40,85
+86,Ready for pickup,29,31,86
+87,delivered,1,2,87
+88,Ready for pickup,25,27,88
+89,packing,21,22,89
+90,Ready for delivery,29,30,90
+91,packing,29,32,91
+92,Ready for pickup,29,31,92
+93,Ready for delivery,9,11,93
+94,out for delivery,21,23,94
+95,confirmed,33,36,95
+96,packing,5,8,96
+97,packing,37,40,97
+98,confirmed,21,22,98
+99,packing,21,22,99
+100,out for delivery,5,6,100
+101,Ready for pickup,33,35,101
+102,Ready for pickup,37,38,102
+103,confirmed,13,15,103
+104,out for delivery,9,11,104
+105,delivered,17,18,105
+106,Ready for pickup,29,31,106
+107,delivered,33,36,107
+108,Ready for pickup,25,28,108
+109,Ready for pickup,5,8,109
+110,Ready for delivery,1,4,110
+111,delivered,37,38,111
+112,out for delivery,33,35,112
+113,delivered,9,12,113
+114,packing,37,39,114
+115,Ready for delivery,9,12,115
+116,confirmed,33,36,116
+117,Ready for pickup,29,30,117
+118,confirmed,5,6,118
+119,delivered,29,32,119
+120,packing,33,36,120
+121,confirmed,37,39,121
+122,Ready for pickup,37,39,122
+123,confirmed,29,31,123
+124,confirmed,21,23,124
+125,packing,21,23,125
+126,Ready for pickup,37,40,126
+127,Ready for pickup,29,32,127
+128,packing,17,18,128
+129,delivered,21,22,129
+130,confirmed,9,12,130
+131,delivered,21,24,131
+132,packing,29,31,132
+133,out for delivery,33,35,133
+134,delivered,5,8,134
+135,confirmed,5,7,135
+136,Ready for pickup,17,19,136
+137,out for delivery,5,8,137
+138,confirmed,13,14,138
+139,Ready for pickup,17,18,139
+140,confirmed,1,4,140
+141,confirmed,9,12,141
+142,confirmed,5,6,142
+143,confirmed,25,27,143
+144,confirmed,25,28,144
+145,packing,29,30,145
+146,confirmed,17,19,146
+147,packing,13,14,147
+148,confirmed,29,31,148
+149,packing,25,27,149
+150,confirmed,17,19,150
+151,Ready for delivery,33,34,151
+152,confirmed,13,15,152
+153,confirmed,1,2,153
+154,Ready for pickup,13,16,154
+155,Ready for pickup,1,4,155
+156,Ready for pickup,25,28,156
+157,confirmed,13,15,157
+158,Ready for pickup,5,6,158
+159,Ready for delivery,33,36,159
+160,Ready for delivery,21,22,160
+161,Ready for pickup,5,8,161
+162,out for delivery,29,32,162
+163,Ready for pickup,17,18,163
+164,Ready for pickup,25,28,164
+165,out for delivery,29,32,165
+166,confirmed,5,7,166
+167,packing,21,24,167
+168,Ready for pickup,1,3,168
+169,Ready for delivery,25,26,169
+170,confirmed,21,23,170
+171,confirmed,13,15,171
+172,confirmed,37,39,172
+173,confirmed,29,32,173
+174,packing,25,26,174
+175,confirmed,25,28,175
+176,out for delivery,17,20,176
+177,delivered,37,40,177
+178,delivered,25,27,178
+179,delivered,33,36,179
+180,Ready for delivery,1,2,180
+181,confirmed,29,31,181
+182,delivered,29,30,182
+183,Ready for pickup,29,31,183
+184,Ready for delivery,17,20,184
+185,confirmed,9,11,185
+186,Ready for delivery,17,18,186
+187,confirmed,29,31,187
+188,out for delivery,9,12,188
+189,packing,13,14,189
+190,delivered,37,38,190
+191,packing,21,22,191
+192,Ready for delivery,33,36,192
+193,out for delivery,21,24,193
+194,confirmed,25,27,194
+195,out for delivery,37,39,195
+196,packing,29,32,196
+197,packing,9,11,197
+198,Ready for delivery,21,24,198
+199,confirmed,25,28,199
+200,packing,25,27,200
+201,packing,29,30,201
+202,Ready for delivery,37,38,202
+203,confirmed,33,34,203
+204,confirmed,21,22,204
+205,out for delivery,37,38,205
+206,delivered,21,24,206
+207,Ready for pickup,9,12,207
+208,packing,29,31,208
+209,confirmed,33,36,209
+210,Ready for delivery,29,32,210
+211,Ready for delivery,17,18,211
+212,packing,37,40,212
+213,confirmed,5,6,213
+214,confirmed,21,22,214
+215,Ready for pickup,33,36,215
+216,confirmed,5,8,216
+217,delivered,1,2,217
+218,packing,5,7,218
+219,packing,33,34,219
+220,delivered,17,19,220

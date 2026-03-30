@@ -1,0 +1,221 @@
+payment_id,payment_method,payment_status,total_amount,payment_date,card_id
+1,paypal,Success,1.07,2026-02-12,
+2,credit card,Success,48.45,2026-02-04,18
+3,debit card,Failed,50.12,2026-02-07,75
+4,debit card,Success,20.85,2026-03-05,48
+5,credit card,Failed,35.21,2026-02-22,62
+6,credit card,Failed,41.82,2026-03-03,52
+7,paypal,Failed,15.28,2026-02-27,
+8,paypal,Success,84.85,2026-02-06,
+9,apple pay,Success,56.16,2026-02-03,
+10,google pay,Success,116.38,2026-02-19,
+11,debit card,Success,102.20,2026-03-29,89
+12,paypal,Success,62.43,2026-03-25,
+13,credit card,Success,100.52,2026-02-22,48
+14,paypal,Success,34.32,2026-02-25,
+15,credit card,Success,81.03,2026-02-03,91
+16,credit card,Success,42.08,2026-03-28,53
+17,apple pay,Success,82.50,2026-02-07,
+18,google pay,Success,30.00,2026-03-19,
+19,paypal,Success,84.70,2026-02-06,
+20,google pay,Success,95.54,2026-02-14,
+21,apple pay,Success,54.75,2026-02-27,
+22,paypal,Success,98.10,2026-02-08,
+23,apple pay,Success,26.28,2026-03-26,
+24,debit card,Success,87.55,2026-02-08,87
+25,credit card,Success,41.12,2026-02-14,85
+26,credit card,Success,1.58,2026-03-01,10
+27,credit card,Success,67.54,2026-02-08,24
+28,paypal,Failed,74.12,2026-03-04,
+29,google pay,Success,56.71,2026-02-28,
+30,google pay,Success,70.39,2026-03-09,
+31,paypal,Success,85.62,2026-02-28,
+32,debit card,Success,32.47,2026-02-03,81
+33,credit card,Failed,20.76,2026-03-01,21
+34,credit card,Success,41.22,2026-02-05,28
+35,apple pay,Failed,58.43,2026-02-09,
+36,debit card,Success,35.86,2026-02-23,70
+37,debit card,Success,18.40,2026-02-22,32
+38,apple pay,Success,68.11,2026-03-20,
+39,apple pay,Success,60.06,2026-02-03,
+40,apple pay,Success,19.14,2026-03-26,
+41,apple pay,Success,64.31,2026-03-05,
+42,credit card,Success,61.22,2026-03-09,40
+43,debit card,Success,2.82,2026-02-11,95
+44,google pay,Success,56.52,2026-03-23,
+45,paypal,Failed,82.23,2026-02-25,
+46,paypal,Failed,94.14,2026-03-26,
+47,google pay,Success,37.41,2026-02-11,
+48,apple pay,Success,19.88,2026-03-01,
+49,paypal,Failed,131.41,2026-03-09,
+50,credit card,Success,20.98,2026-03-24,65
+51,apple pay,Success,72.31,2026-02-12,
+52,debit card,Success,70.76,2026-03-08,76
+53,credit card,Failed,95.41,2026-03-17,80
+54,credit card,Success,12.54,2026-02-19,29
+55,google pay,Success,39.64,2026-02-14,
+56,credit card,Success,48.72,2026-02-10,76
+57,debit card,Success,7.60,2026-02-08,2
+58,credit card,Success,64.13,2026-02-20,4
+59,debit card,Failed,13.53,2026-03-26,53
+60,google pay,Success,39.25,2026-03-14,
+61,credit card,Success,84.03,2026-02-12,62
+62,credit card,Success,84.40,2026-02-03,27
+63,credit card,Success,11.10,2026-03-07,14
+64,credit card,Success,24.90,2026-02-12,91
+65,debit card,Success,76.46,2026-03-09,17
+66,credit card,Success,24.44,2026-02-03,51
+67,google pay,Success,8.46,2026-03-15,
+68,credit card,Success,41.74,2026-02-18,31
+69,credit card,Success,67.02,2026-03-16,7
+70,paypal,Success,12.07,2026-03-19,
+71,debit card,Failed,45.09,2026-02-02,48
+72,debit card,Success,132.84,2026-03-20,90
+73,debit card,Success,37.31,2026-03-13,85
+74,paypal,Success,36.23,2026-03-26,
+75,debit card,Success,99.36,2026-03-02,50
+76,debit card,Success,82.50,2026-02-02,2
+77,credit card,Failed,9.18,2026-02-19,17
+78,debit card,Success,16.38,2026-02-13,62
+79,credit card,Success,14.34,2026-03-19,78
+80,apple pay,Success,16.12,2026-03-12,
+81,debit card,Success,76.53,2026-03-14,56
+82,google pay,Success,86.74,2026-03-01,
+83,paypal,Failed,76.43,2026-03-27,
+84,credit card,Success,33.15,2026-02-27,94
+85,credit card,Success,8.01,2026-03-10,43
+86,google pay,Success,44.10,2026-03-01,
+87,credit card,Success,36.65,2026-02-02,72
+88,paypal,Success,63.04,2026-02-23,
+89,paypal,Success,64.93,2026-02-23,
+90,credit card,Success,97.69,2026-03-26,41
+91,paypal,Success,47.76,2026-03-25,
+92,debit card,Success,59.99,2026-03-02,12
+93,apple pay,Success,82.10,2026-03-13,
+94,paypal,Success,58.04,2026-03-07,
+95,apple pay,Failed,7.50,2026-03-18,
+96,apple pay,Success,95.29,2026-02-17,
+97,debit card,Success,35.69,2026-02-23,87
+98,paypal,Failed,42.54,2026-03-28,
+99,google pay,Success,56.54,2026-03-24,
+100,apple pay,Success,21.59,2026-02-05,
+101,credit card,Success,61.80,2026-02-14,81
+102,apple pay,Success,51.02,2026-03-27,
+103,apple pay,Failed,26.88,2026-03-11,
+104,apple pay,Success,45.22,2026-02-11,
+105,debit card,Success,114.22,2026-02-25,51
+106,paypal,Success,48.05,2026-03-03,
+107,debit card,Success,90.95,2026-02-05,1
+108,debit card,Success,68.49,2026-03-11,68
+109,debit card,Success,55.60,2026-02-16,59
+110,credit card,Success,10.59,2026-02-24,87
+111,debit card,Success,8.54,2026-03-13,2
+112,debit card,Success,29.25,2026-02-01,97
+113,credit card,Success,31.77,2026-02-17,88
+114,apple pay,Success,44.68,2026-03-22,
+115,debit card,Success,25.88,2026-03-05,45
+116,credit card,Success,62.30,2026-03-20,21
+117,credit card,Success,54.14,2026-03-22,16
+118,credit card,Success,31.64,2026-03-12,96
+119,debit card,Success,20.92,2026-03-27,31
+120,debit card,Success,74.87,2026-03-19,79
+121,paypal,Success,56.05,2026-03-23,
+122,credit card,Success,26.52,2026-03-24,99
+123,debit card,Failed,119.18,2026-03-20,86
+124,credit card,Success,48.57,2026-03-05,7
+125,debit card,Success,80.17,2026-03-01,62
+126,google pay,Success,118.85,2026-02-09,
+127,debit card,Success,35.85,2026-03-06,31
+128,debit card,Success,8.26,2026-02-01,57
+129,credit card,Success,58.37,2026-03-21,27
+130,apple pay,Success,47.99,2026-02-12,
+131,credit card,Success,77.96,2026-03-17,63
+132,debit card,Success,36.54,2026-02-27,42
+133,debit card,Success,102.95,2026-02-14,77
+134,credit card,Success,87.92,2026-02-11,1
+135,debit card,Failed,51.81,2026-02-10,22
+136,credit card,Success,44.28,2026-03-07,85
+137,apple pay,Success,15.94,2026-03-07,
+138,debit card,Success,144.22,2026-03-17,80
+139,google pay,Success,19.22,2026-02-05,
+140,credit card,Failed,40.68,2026-02-04,37
+141,debit card,Failed,7.58,2026-02-23,1
+142,debit card,Success,47.47,2026-03-05,98
+143,credit card,Failed,44.81,2026-03-14,46
+144,debit card,Failed,27.93,2026-03-08,72
+145,apple pay,Success,27.08,2026-03-15,
+146,debit card,Failed,138.62,2026-03-09,76
+147,paypal,Success,18.92,2026-02-19,
+148,credit card,Failed,32.80,2026-03-14,71
+149,google pay,Success,84.81,2026-03-01,
+150,paypal,Success,57.31,2026-02-28,
+151,apple pay,Success,103.18,2026-03-20,
+152,apple pay,Failed,76.71,2026-02-05,
+153,paypal,Success,36.69,2026-03-07,
+154,debit card,Success,37.17,2026-03-01,49
+155,credit card,Success,55.93,2026-03-04,16
+156,google pay,Success,5.10,2026-03-20,
+157,debit card,Failed,85.48,2026-03-01,45
+158,apple pay,Success,74.25,2026-03-26,
+159,credit card,Success,42.20,2026-03-20,88
+160,credit card,Success,51.32,2026-03-12,29
+161,paypal,Success,19.36,2026-03-02,
+162,apple pay,Success,116.53,2026-03-04,
+163,apple pay,Success,32.88,2026-03-03,
+164,apple pay,Success,86.54,2026-03-13,
+165,credit card,Success,55.97,2026-02-18,25
+166,google pay,Failed,113.14,2026-02-22,
+167,google pay,Success,93.66,2026-03-28,
+168,debit card,Success,108.25,2026-02-10,14
+169,apple pay,Success,85.84,2026-02-01,
+170,apple pay,Failed,31.78,2026-03-01,
+171,debit card,Success,93.98,2026-03-19,68
+172,credit card,Success,59.06,2026-03-14,90
+173,credit card,Success,32.98,2026-02-08,56
+174,credit card,Success,75.85,2026-02-18,33
+175,google pay,Failed,109.67,2026-03-09,
+176,credit card,Success,8.81,2026-03-16,25
+177,google pay,Success,3.38,2026-03-02,
+178,credit card,Success,12.87,2026-03-20,77
+179,google pay,Success,39.90,2026-03-22,
+180,apple pay,Success,102.00,2026-03-20,
+181,debit card,Success,36.48,2026-03-05,35
+182,debit card,Success,140.24,2026-03-17,92
+183,debit card,Success,111.06,2026-03-22,27
+184,credit card,Success,29.46,2026-02-08,32
+185,credit card,Failed,3.34,2026-03-17,34
+186,paypal,Success,90.27,2026-03-09,
+187,debit card,Failed,27.18,2026-03-19,30
+188,debit card,Success,93.12,2026-03-17,40
+189,debit card,Success,14.02,2026-02-12,75
+190,credit card,Success,8.48,2026-03-16,40
+191,credit card,Success,11.76,2026-03-06,7
+192,debit card,Success,40.50,2026-03-27,96
+193,credit card,Success,47.75,2026-02-08,96
+194,credit card,Failed,29.33,2026-03-27,19
+195,credit card,Success,77.36,2026-02-23,34
+196,apple pay,Success,65.38,2026-02-05,
+197,google pay,Success,73.93,2026-03-22,
+198,debit card,Success,125.44,2026-03-04,83
+199,debit card,Success,56.98,2026-02-08,15
+200,paypal,Success,42.17,2026-03-04,
+201,debit card,Success,66.81,2026-03-12,100
+202,debit card,Success,92.31,2026-02-22,47
+203,credit card,Failed,19.75,2026-03-18,6
+204,credit card,Failed,23.37,2026-03-07,39
+205,google pay,Success,20.56,2026-02-22,
+206,apple pay,Success,24.76,2026-03-18,
+207,credit card,Success,20.52,2026-03-10,96
+208,credit card,Success,8.82,2026-03-03,75
+209,google pay,Success,77.70,2026-02-16,
+210,credit card,Success,85.74,2026-02-23,2
+211,debit card,Success,57.36,2026-03-07,32
+212,paypal,Success,113.75,2026-03-25,
+213,credit card,Failed,22.81,2026-02-18,17
+214,debit card,Success,18.40,2026-02-01,97
+215,apple pay,Success,7.22,2026-02-16,
+216,credit card,Failed,84.19,2026-02-13,8
+217,credit card,Success,41.02,2026-03-09,72
+218,apple pay,Success,18.56,2026-03-08,
+219,paypal,Success,62.46,2026-03-12,
+220,apple pay,Success,135.35,2026-03-01,

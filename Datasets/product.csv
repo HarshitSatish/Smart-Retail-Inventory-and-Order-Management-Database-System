@@ -1,0 +1,241 @@
+product_id,product_name,product_barcode,product_description,category_id
+1,Banana Bunch,100000000001,Fresh yellow bananas,1
+2,Gala Apples 3 lb,100000000002,Sweet gala apples bag,1
+3,Fuji Apples 3 lb,100000000003,Crisp fuji apples bag,1
+4,Navel Oranges 4 lb,100000000004,Juicy navel oranges bag,1
+5,Red Seedless Grapes 2 lb,100000000005,Seedless red grapes,1
+6,Green Seedless Grapes 2 lb,100000000006,Seedless green grapes,1
+7,Strawberries 1 lb,100000000007,Fresh strawberries,1
+8,Blueberries 1 pint,100000000008,Fresh blueberries,1
+9,Raspberries 6 oz,100000000009,Fresh raspberries,1
+10,Blackberries 6 oz,100000000010,Fresh blackberries,1
+11,Ataulfo Mango,100000000011,Sweet ripe mango,1
+12,Pineapple Whole,100000000012,Whole ripe pineapple,1
+13,Mini Watermelon,100000000013,Seedless mini watermelon,1
+14,Cantaloupe Whole,100000000014,Fresh cantaloupe,1
+15,Honeydew Melon,100000000015,Sweet honeydew melon,1
+16,Bartlett Pears 2 lb,100000000016,Fresh bartlett pears,1
+17,Yellow Peaches 2 lb,100000000017,Juicy yellow peaches,1
+18,Black Plums 2 lb,100000000018,Sweet black plums,1
+19,Kiwi 4 ct,100000000019,Kiwi fruit pack,1
+20,Lemons 2 lb,100000000020,Fresh lemons bag,1
+21,Roma Tomatoes 1 lb,100000000021,Fresh roma tomatoes,2
+22,Vine Tomatoes 1 lb,100000000022,Fresh vine-ripened tomatoes,2
+23,Baby Spinach 5 oz,100000000023,Washed baby spinach,2
+24,Romaine Hearts 3 ct,100000000024,Fresh romaine hearts,2
+25,Broccoli Crowns,100000000025,Fresh broccoli crowns,2
+26,Cauliflower Head,100000000026,Fresh cauliflower head,2
+27,Carrots 2 lb,100000000027,Whole carrots bag,2
+28,Celery Bunch,100000000028,Fresh celery bunch,2
+29,English Cucumber,100000000029,Long seedless cucumber,2
+30,Red Bell Pepper,100000000030,Fresh red bell pepper,2
+31,Green Bell Pepper,100000000031,Fresh green bell pepper,2
+32,Yellow Onions 3 lb,100000000032,Yellow onions bag,2
+33,Garlic Bulb,100000000033,Whole garlic bulb,2
+34,Russet Potatoes 5 lb,100000000034,Russet potatoes bag,2
+35,Sweet Potatoes 3 lb,100000000035,Sweet potatoes bag,2
+36,Zucchini 1 lb,100000000036,Fresh zucchini squash,2
+37,White Mushrooms 8 oz,100000000037,Sliced white mushrooms,2
+38,Green Beans 12 oz,100000000038,Fresh green beans,2
+39,Sweet Corn 4 ct,100000000039,Fresh sweet corn,2
+40,Green Cabbage,100000000040,Whole green cabbage,2
+41,Whole Milk 1 gal,100000000041,Whole milk gallon jug,3
+42,2% Milk 1 gal,100000000042,Reduced fat milk gallon jug,3
+43,Skim Milk 1 gal,100000000043,Fat free milk gallon jug,3
+44,Plain Greek Yogurt 32 oz,100000000044,Plain greek yogurt tub,3
+45,Vanilla Greek Yogurt 32 oz,100000000045,Vanilla greek yogurt tub,3
+46,Sharp Cheddar Block 8 oz,100000000046,Sharp cheddar cheese,3
+47,Shredded Mozzarella 8 oz,100000000047,Mozzarella cheese shreds,3
+48,Grated Parmesan 8 oz,100000000048,Grated parmesan cheese,3
+49,Salted Butter 16 oz,100000000049,Salted butter sticks,3
+50,Unsalted Butter 16 oz,100000000050,Unsalted butter sticks,3
+51,Large Eggs 12 ct,100000000051,Grade A large eggs,3
+52,Egg Whites 16 oz,100000000052,Liquid egg whites,3
+53,Sour Cream 16 oz,100000000053,Cultured sour cream,3
+54,Cream Cheese 8 oz,100000000054,Original cream cheese,3
+55,Heavy Whipping Cream 16 oz,100000000055,Heavy cream,3
+56,Half & Half 32 oz,100000000056,Half and half carton,3
+57,Low Fat Cottage Cheese 24 oz,100000000057,Low fat cottage cheese,3
+58,Fruit Yogurt 4 ct,100000000058,Assorted yogurt cups,3
+59,Chocolate Milk 1 qt,100000000059,Chocolate milk carton,3
+60,String Cheese 12 ct,100000000060,Mozzarella string cheese,3
+61,Whole Wheat Bread Loaf,100000000061,Fresh whole wheat bread,4
+62,White Sandwich Bread,100000000062,Classic sandwich loaf,4
+63,Sourdough Bread,100000000063,Artisan sourdough loaf,4
+64,Multigrain Bread,100000000064,Fresh multigrain loaf,4
+65,Plain Bagels 6 ct,100000000065,Soft plain bagels,4
+66,Sesame Bagels 6 ct,100000000066,Sesame bagels,4
+67,Butter Croissants 4 ct,100000000067,Bakery croissants,4
+68,Blueberry Muffins 4 ct,100000000068,Blueberry muffins,4
+69,Chocolate Muffins 4 ct,100000000069,Chocolate chip muffins,4
+70,Cinnamon Rolls 4 ct,100000000070,Fresh cinnamon rolls,4
+71,Chocolate Cake Slice,100000000071,Chocolate cake slice,4
+72,Vanilla Cupcakes 6 ct,100000000072,Vanilla cupcakes,4
+73,Dinner Rolls 12 ct,100000000073,Soft dinner rolls,4
+74,Hamburger Buns 8 ct,100000000074,Burger buns,4
+75,Hot Dog Buns 8 ct,100000000075,Hot dog buns,4
+76,Pita Bread 6 ct,100000000076,Soft pita bread,4
+77,Flour Tortillas 10 ct,100000000077,Soft flour tortillas,4
+78,Corn Tortillas 20 ct,100000000078,Corn tortillas,4
+79,Assorted Donuts 6 ct,100000000079,Assorted donuts,4
+80,Brownie Tray 4 ct,100000000080,Chocolate brownies,4
+81,Boneless Chicken Breast 1 lb,100000000081,Fresh boneless chicken breast,5
+82,Boneless Chicken Thighs 1 lb,100000000082,Fresh boneless chicken thighs,5
+83,Chicken Wings Family Pack,100000000083,Fresh chicken wings,5
+84,Whole Chicken,100000000084,Whole roasting chicken,5
+85,Ground Turkey 93% Lean 1 lb,100000000085,Lean ground turkey,5
+86,Turkey Breast Cutlets 1 lb,100000000086,Fresh turkey breast cutlets,5
+87,Turkey Breast Deli 8 oz,100000000087,Sliced turkey breast,5
+88,Chicken Sausage Mild 12 oz,100000000088,Mild chicken sausage,5
+89,Turkey Sausage Links 12 oz,100000000089,Turkey sausage links,5
+90,Atlantic Salmon Fillet 1 lb,100000000090,Fresh atlantic salmon fillet,5
+91,Tilapia Fillets 1 lb,100000000091,Fresh tilapia fillets,5
+92,Cod Fillets 1 lb,100000000092,Fresh cod fillets,5
+93,Raw Shrimp 1 lb,100000000093,Peeled raw shrimp,5
+94,Cooked Shrimp 1 lb,100000000094,Cooked shrimp,5
+95,Sea Scallops 12 oz,100000000095,Fresh sea scallops,5
+96,Mussels 1 lb,100000000096,Fresh mussels,5
+97,Crab Cakes 2 ct,100000000097,Prepared crab cakes,5
+98,Smoked Salmon 4 oz,100000000098,Smoked salmon pack,5
+99,Lobster Tails 2 ct,100000000099,Cold water lobster tails,5
+100,Breaded Fish Fillets 16 oz,100000000100,Breaded white fish fillets,5
+101,Orange Juice 52 oz,100000000101,No pulp orange juice,6
+102,Apple Juice 64 oz,100000000102,100 percent apple juice,6
+103,Lime Sparkling Water 8 pk,100000000103,Lime sparkling water,6
+104,Berry Sparkling Water 8 pk,100000000104,Berry sparkling water,6
+105,Cola 12 pk,100000000105,Classic cola cans,6
+106,Diet Cola 12 pk,100000000106,Diet cola cans,6
+107,Lemonade 59 oz,100000000107,Classic lemonade bottle,6
+108,Lemon Iced Tea 64 oz,100000000108,Lemon iced tea,6
+109,Cold Brew Coffee 48 oz,100000000109,Ready to drink cold brew,6
+110,Medium Roast Ground Coffee 12 oz,100000000110,Medium roast ground coffee,6
+111,Breakfast Blend Coffee Pods 12 ct,100000000111,Single serve coffee pods,6
+112,Black Tea Bags 40 ct,100000000112,Black tea bags,6
+113,Green Tea Bags 40 ct,100000000113,Green tea bags,6
+114,Blue Sports Drink 8 pk,100000000114,Blue raspberry sports drink,6
+115,Citrus Energy Drink 4 pk,100000000115,Citrus energy drink,6
+116,Coconut Water 1 L,100000000116,Pure coconut water,6
+117,Purified Water 24 pk,100000000117,Bottled water case,6
+118,Unsweetened Almond Milk 64 oz,100000000118,Unsweetened almond milk,6
+119,Original Oat Milk 64 oz,100000000119,Original oat milk,6
+120,Hot Chocolate Mix 10 ct,100000000120,Hot chocolate mix packets,6
+121,Classic Potato Chips 8 oz,100000000121,Salted potato chips,7
+122,Barbecue Potato Chips 8 oz,100000000122,Barbecue potato chips,7
+123,Restaurant Style Tortilla Chips 13 oz,100000000123,Tortilla chips,7
+124,Pretzel Twists 16 oz,100000000124,Crunchy pretzel twists,7
+125,Chocolate Chip Cookies 13 oz,100000000125,Chocolate chip cookies,7
+126,Oatmeal Raisin Cookies 13 oz,100000000126,Oatmeal raisin cookies,7
+127,Milk Chocolate Bar 1.55 oz,100000000127,Milk chocolate candy bar,7
+128,Dark Chocolate Bar 3.5 oz,100000000128,Dark chocolate bar,7
+129,Deluxe Trail Mix 14 oz,100000000129,Nut and fruit trail mix,7
+130,Roasted Mixed Nuts 10 oz,100000000130,Roasted mixed nuts,7
+131,Butter Popcorn 6 ct,100000000131,Microwave butter popcorn,7
+132,Peanut Protein Bars 5 ct,100000000132,Peanut protein bars,7
+133,Variety Granola Bars 6 ct,100000000133,Variety granola bars,7
+134,Original Crackers 13.7 oz,100000000134,Original snack crackers,7
+135,Baked Cheese Crackers 12.4 oz,100000000135,Cheddar baked crackers,7
+136,Fruit Snacks 10 ct,100000000136,Assorted fruit snacks,7
+137,Sea Salt Rice Cakes 4.47 oz,100000000137,Sea salt rice cakes,7
+138,Plant Based Jerky 2.5 oz,100000000138,Plant based jerky,7
+139,Gummy Bears 8 oz,100000000139,Gummy bears candy,7
+140,Peanut Butter Sandwich Crackers 8 ct,100000000140,Peanut butter cracker packs,7
+141,Margherita Frozen Pizza 14 oz,100000000141,Frozen margherita pizza,8
+142,Pepperoni Frozen Pizza 15 oz,100000000142,Frozen pepperoni pizza,8
+143,Frozen Mixed Vegetables 12 oz,100000000143,Frozen mixed vegetables,8
+144,Frozen Broccoli Florets 12 oz,100000000144,Frozen broccoli florets,8
+145,Frozen French Fries 28 oz,100000000145,Crispy frozen fries,8
+146,Frozen Chicken Nuggets 32 oz,100000000146,Breaded chicken nuggets,8
+147,Frozen Waffles 10 ct,100000000147,Frozen waffles,8
+148,Frozen Pancakes 12 ct,100000000148,Frozen pancakes,8
+149,Vanilla Ice Cream 48 oz,100000000149,Vanilla ice cream,8
+150,Chocolate Ice Cream 48 oz,100000000150,Chocolate ice cream,8
+151,Frozen Berry Blend 16 oz,100000000151,Mixed berries,8
+152,Frozen Mango Chunks 16 oz,100000000152,Mango chunks,8
+153,Family Size Frozen Lasagna 38 oz,100000000153,Frozen lasagna,8
+154,Frozen Mac & Cheese 12 oz,100000000154,Frozen macaroni and cheese,8
+155,Frozen Fish Sticks 24 oz,100000000155,Breaded frozen fish sticks,8
+156,Frozen Shrimp Tempura 9.2 oz,100000000156,Shrimp tempura,8
+157,Frozen Pie Crusts 2 ct,100000000157,Ready to bake pie crusts,8
+158,Frozen Garlic Bread 16 oz,100000000158,Frozen garlic bread,8
+159,Frozen Turkey Meatballs 20 oz,100000000159,Turkey meatballs,8
+160,Frozen Cheesecake Slices 16 oz,100000000160,Frozen cheesecake slices,8
+161,Lemon Dish Soap 19.4 oz,100000000161,Lemon dishwashing liquid,9
+162,Free & Clear Dish Soap 19.4 oz,100000000162,Fragrance free dish soap,9
+163,Laundry Detergent 64 oz,100000000163,Concentrated laundry detergent,9
+164,Fabric Softener 50 oz,100000000164,Liquid fabric softener,9
+165,Paper Towels 6 ct,100000000165,Absorbent paper towels,9
+166,Toilet Paper 12 ct,100000000166,Soft bath tissue,9
+167,Kitchen Trash Bags 30 ct,100000000167,Tall kitchen trash bags,9
+168,Heavy Duty Aluminum Foil 75 ft,100000000168,Aluminum foil roll,9
+169,Plastic Wrap 200 ft,100000000169,Cling wrap roll,9
+170,Cleaning Sponges 6 ct,100000000170,Multi-use sponges,9
+171,Glass Cleaner 32 oz,100000000171,Streak free glass cleaner,9
+172,Disinfecting Wipes 75 ct,100000000172,Disinfecting wipes,9
+173,All Purpose Cleaner 32 oz,100000000173,Multi-surface cleaner,9
+174,Household Bleach 81 oz,100000000174,Household bleach,9
+175,Indoor Broom,100000000175,Indoor broom,9
+176,Mop Refill Head,100000000176,Replacement mop head,9
+177,Sandwich Zipper Bags 100 ct,100000000177,Sandwich storage bags,9
+178,Freezer Zipper Bags 40 ct,100000000178,Freezer storage bags,9
+179,Linen Air Freshener 8 oz,100000000179,Air freshener spray,9
+180,AA Batteries 8 ct,100000000180,Alkaline AA batteries,9
+181,Herbal Shampoo 12 oz,100000000181,Herbal daily shampoo,10
+182,Herbal Conditioner 12 oz,100000000182,Herbal daily conditioner,10
+183,Mint Toothpaste 5.8 oz,100000000183,Fluoride toothpaste,10
+184,Soft Toothbrushes 2 ct,100000000184,Soft bristle toothbrush pack,10
+185,Fresh Body Wash 18 oz,100000000185,Fresh scent body wash,10
+186,Moisturizing Bar Soap 6 ct,100000000186,Bar soap pack,10
+187,Aloe Hand Soap 12.5 oz,100000000187,Aloe hand soap,10
+188,Gentle Face Wash 8 oz,100000000188,Daily gentle face wash,10
+189,Fresh Deodorant 2.6 oz,100000000189,Fresh scent deodorant,10
+190,Unscented Body Lotion 16 oz,100000000190,Unscented body lotion,10
+191,Sensitive Shaving Cream 11 oz,100000000191,Sensitive shaving cream,10
+192,Disposable Razors 4 ct,100000000192,Disposable razors,10
+193,Cotton Swabs 300 ct,100000000193,Cotton swabs,10
+194,Cotton Balls 200 ct,100000000194,Cotton balls,10
+195,Facial Tissues 4 ct,100000000195,Facial tissue box pack,10
+196,Cool Mint Mouthwash 1 L,100000000196,Cool mint mouthwash,10
+197,Waxed Dental Floss 2 pk,100000000197,Waxed dental floss,10
+198,Hand Sanitizer 8 oz,100000000198,Alcohol hand sanitizer,10
+199,Original Lip Balm 0.15 oz,100000000199,Lip balm,10
+200,Sunscreen SPF 50 6 oz,100000000200,Broad spectrum sunscreen,10
+201,Basmati Rice 5 lb,100000000201,Long grain basmati rice,11
+202,Jasmine Rice 5 lb,100000000202,Fragrant jasmine rice,11
+203,Penne Pasta 16 oz,100000000203,Durum wheat penne pasta,11
+204,Spaghetti Pasta 16 oz,100000000204,Classic spaghetti pasta,11
+205,Extra Virgin Olive Oil 1 L,100000000205,Olive oil,11
+206,Canola Oil 48 oz,100000000206,Pure canola oil,11
+207,All Purpose Flour 5 lb,100000000207,All purpose flour,11
+208,Granulated Sugar 4 lb,100000000208,White granulated sugar,11
+209,Light Brown Sugar 2 lb,100000000209,Light brown sugar,11
+210,Iodized Salt 26 oz,100000000210,Table salt,11
+211,Ground Black Pepper 4 oz,100000000211,Ground black pepper,11
+212,Canned Black Beans 15 oz,100000000212,Black beans,11
+213,Canned Chickpeas 15 oz,100000000213,Chickpeas,11
+214,Canned Corn 15.25 oz,100000000214,Sweet corn,11
+215,Tomato Sauce 24 oz,100000000215,Classic tomato sauce,11
+216,Creamy Peanut Butter 16 oz,100000000216,Creamy peanut butter,11
+217,Strawberry Jam 18 oz,100000000217,Fruit jam,11
+218,Chicken Broth 32 oz,100000000218,Cooking broth,11
+219,Chunk Light Tuna 5 oz,100000000219,Tuna in water,11
+220,Pure Maple Syrup 12 oz,100000000220,Maple syrup,11
+221,Corn Flakes 18 oz,100000000221,Classic corn flakes cereal,12
+222,Rolled Oats 42 oz,100000000222,Old fashioned rolled oats,12
+223,Honey Oat Cereal 18 oz,100000000223,Honey oat cereal,12
+224,Granola Crunch 16 oz,100000000224,Crunchy granola,12
+225,Apple Cinnamon Oatmeal 8 ct,100000000225,Instant oatmeal,12
+226,Maple Brown Sugar Oatmeal 8 ct,100000000226,Instant oatmeal,12
+227,Pancake Mix 32 oz,100000000227,Classic pancake mix,12
+228,Waffle Mix 32 oz,100000000228,Homestyle waffle mix,12
+229,Breakfast Syrup 24 oz,100000000229,Maple flavored syrup,12
+230,Creamy Peanut Butter 16 oz Breakfast,100000000230,Peanut butter for toast,12
+231,Chocolate Hazelnut Spread 13 oz,100000000231,Hazelnut spread,12
+232,Oat Breakfast Bars 6 ct,100000000232,Oat breakfast bars,12
+233,Strawberry Toaster Pastries 8 ct,100000000233,Toaster pastries,12
+234,Brown Sugar Toaster Pastries 8 ct,100000000234,Toaster pastries,12
+235,Fruit & Nut Muesli 14 oz,100000000235,Muesli cereal,12
+236,Bran Crunch Cereal 16 oz,100000000236,Bran cereal,12
+237,Cinnamon Bagel Chips 7 oz,100000000237,Crunchy bagel chips,12
+238,Honey Breakfast Biscuits 5 ct,100000000238,Breakfast biscuits,12
+239,Chia Oat Cups 4 ct,100000000239,Ready breakfast cups,12
+240,Protein Pancake Mix 20 oz,100000000240,Protein pancake mix,12

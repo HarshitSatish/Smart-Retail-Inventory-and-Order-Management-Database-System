@@ -1,0 +1,13 @@
+category_id,category_name,category_description
+1,Fruits,Fresh seasonal fruits
+2,Vegetables,Fresh produce and leafy greens
+3,Dairy,"Milk, yogurt, eggs, cheese, and butter"
+4,Bakery,"Fresh breads, rolls, muffins, and pastries"
+5,Meat & Seafood,White meat and seafood only
+6,Beverages,"Juices, water, coffee, tea, and soft drinks"
+7,Snacks,"Chips, crackers, bars, cookies, and treats"
+8,Frozen Foods,"Frozen meals, vegetables, desserts, and breakfast items"
+9,Household,Cleaning supplies and home essentials
+10,Personal Care,Daily hygiene and health essentials
+11,Pantry Staples,"Cooking oils, grains, canned goods, and spreads"
+12,Breakfast & Cereals,"Cereal, oats, syrups, and breakfast pantry items"
